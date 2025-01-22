@@ -22,5 +22,4 @@ if response.status_code == 200:
   print(json.dumps(response.json(), indent=2))
 else:
   # Error
-  print(f"Error {response.status_code")
-  
+  print(f"Error {response.status_code}")
