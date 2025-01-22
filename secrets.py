@@ -1,1 +1,2 @@
 API_KEY = "YOUR_CHAINALYSIS_API_KEY_GOES_HERE"
+# Add to .gitignore
